@@ -5,8 +5,9 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/server"
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
-	"github.com/cosmos/cosmos-sdk/simapp"
-	"github.com/cosmos/cosmos-sdk/simapp/simd/cmd"
+
+	"github.com/boojamya/cosmos-simds/simapp"
+	"github.com/boojamya/cosmos-simds/simapp/simd/cmd"
 )
 
 func main() {
